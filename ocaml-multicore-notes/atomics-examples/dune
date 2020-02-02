@@ -1,0 +1,2 @@
+(executable
+ (name atomic_chk))
